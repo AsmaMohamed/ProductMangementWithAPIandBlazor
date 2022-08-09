@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcomApi", "EcomApi\EcomApi.csproj", "{B4C9AD21-15E7-4CE9-ADE0-84EEE9FEB370}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinalEcom", "FinalEcom\FinalEcom.csproj", "{01BC755F-B737-4E21-8806-D43DCA97F7CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcoModels", "EcoModels\EcoModels.csproj", "{FD933CE6-14ED-4B1F-96EC-9A2ED5CA341A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4C9AD21-15E7-4CE9-ADE0-84EEE9FEB370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C9AD21-15E7-4CE9-ADE0-84EEE9FEB370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C9AD21-15E7-4CE9-ADE0-84EEE9FEB370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C9AD21-15E7-4CE9-ADE0-84EEE9FEB370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01BC755F-B737-4E21-8806-D43DCA97F7CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BC755F-B737-4E21-8806-D43DCA97F7CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BC755F-B737-4E21-8806-D43DCA97F7CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BC755F-B737-4E21-8806-D43DCA97F7CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD933CE6-14ED-4B1F-96EC-9A2ED5CA341A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD933CE6-14ED-4B1F-96EC-9A2ED5CA341A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD933CE6-14ED-4B1F-96EC-9A2ED5CA341A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD933CE6-14ED-4B1F-96EC-9A2ED5CA341A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD26E1CF-6B1D-4283-833B-549C7BAB356F}
+	EndGlobalSection
+EndGlobal
